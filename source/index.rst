@@ -17,7 +17,6 @@ cases.
 .. tip::
     Follow Entando on `Twitter <https://twitter.com/entando>`__ and on `Facebook <https://it-it.facebook.com/Entando/>`__ 
 
-:ref:`More about Entando <about>`
 
 Entando Projects
 --------------------
@@ -29,7 +28,6 @@ Entando Projects
 .. toctree::
   :hidden:
 
-  about
   projects
   documentation
   faq

@@ -10,7 +10,7 @@ Start using Entando its easy, here below the guide to start using it.
 Environment Setup
 ==================
 
-To run a web application based on Entando v4.3.2 you need a system that
+To run a web application based on Entando v4.3.1 you need a system that
 meets the following hardware and software requirements.
 
 

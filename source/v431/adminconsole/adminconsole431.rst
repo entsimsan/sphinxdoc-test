@@ -4,14 +4,14 @@
    single: Admin Console
 
 ***************************************************
-Entando Admin Console Overview
+Admin Console
 ***************************************************
 
 The purpose of this document is to describe the elements and
 functionalities provided by the Entando Admin Console. 
 The Admin Console includes tools to manage administrative core features and WCMS functionality.
 
-Entando Admin Console Version 4.3.1
+Admin Console V4.3.1
 =====================================
 
 With Entando version 4.3.1 the Admin Console has been redesigned and
@@ -20,7 +20,7 @@ renewed with the adoption of the PatternFly framework and guidelines.
 PatternFly is built on top of Bootstrap3, it provides an enterprise
 grade UX look and feel based on research and UX best practices.
 
-Admin Console
+Admin Console Overview
 =====================================
 
 The Entando main view is the entry point for every administration
